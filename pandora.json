@@ -3,7 +3,7 @@
   "wake_word": "Pandora",
   "author": "fwartner",
   "website": "https://github.com/fwartner",
-  "model": "./pandora.tflite",
+  "model": "pandora.tflite",
   "version": 1,
   "micro": {
     "probability_cutoff": 0.5,
