@@ -1,9 +1,9 @@
 {
   "type": "micro",
-  "wake_word": "pandora",
+  "wake_word": "Pandora",
   "author": "fwartner",
   "website": "https://github.com/fwartner",
-  "model": "pandora.tflite",
+  "model": "Pandora.tflite",
   "version": 1,
   "micro": {
     "probability_cutoff": 0.5,
