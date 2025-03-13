@@ -1,6 +1,6 @@
 {
   "type": "micro",
-  "wake_word": "Pandora",
+  "wake_word": "pandora",
   "author": "fwartner",
   "website": "https://github.com/fwartner",
   "model": "pandora.tflite",
